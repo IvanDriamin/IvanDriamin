@@ -12,4 +12,5 @@ I love Java.
 
 # GitHub Stats:
 
-(https://vercel.app)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/IvanDriamin/github-readme-stats)
