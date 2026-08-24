@@ -12,5 +12,4 @@ I love Java.
 
 # GitHub Stats:
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/IvanDriamin/github-readme-stats)
+[![Top Langs](https://vercel.app)](https://github.com/IvanDriamin/github-readme-stats)
