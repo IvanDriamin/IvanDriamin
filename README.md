@@ -12,4 +12,4 @@ I love Java.
 
 # GitHub Stats:
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=IvanDriamin&layout=compact&langs_count=6)](https://github-stats-extended.vercel.app/api/top-langs?username=IvanDriamin&layout=compact&langs_count=6) [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=IvanDriamin&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=IvanDriamin&show_icons=true&include_all_commits=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=IvanDriamin&layout=compact&langs_count=6)](https://github-stats-extended.vercel.app/api/top-langs?username=IvanDriamin&layout=compact&langs_count=6) [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=IvanDriamin&hide_title=true&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=IvanDriamin&hide_title=true&show_icons=true&include_all_commits=true)
