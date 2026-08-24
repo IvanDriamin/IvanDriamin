@@ -12,4 +12,4 @@ I love Java.
 
 # GitHub Stats:
 
-[![Top Langs](https://vercel.app)](https://github.com/IvanDriamin/github-readme-stats)
+[![Top Langs](https://vercel.app)](https://github.com/IvanDriamin/github-stats-extended)
