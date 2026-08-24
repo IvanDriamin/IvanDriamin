@@ -12,6 +12,4 @@ I love Java.
 
 # GitHub Stats:
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=IvanDriamin)](https://github.com/stats-organization/github-stats-extended)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=IvanDriamin&layout=donut-vertical&langs_count=6)](https://github-stats-extended.vercel.app/api/top-langs?username=IvanDriamin&layout=donut-vertical&langs_count=6)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=IvanDriamin&layout=donut-vertical&langs_count=6)](https://github-stats-extended.vercel.app/api/top-langs?username=IvanDriamin&layout=donut-vertical&langs_count=6) [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=IvanDriamin&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=IvanDriamin&show_icons=true&include_all_commits=true)
