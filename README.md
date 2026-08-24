@@ -1,6 +1,6 @@
 # Hello !!!
 
-I love Java.
+I love programming :)
 
 # My competencies:
 
